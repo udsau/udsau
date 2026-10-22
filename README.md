@@ -1,4 +1,4 @@
-## Hey :)
+## Hi :)
 
 just cse student who likes building things, exploring the cosmos, and dabbling in art 
 [**My Personal Site**](https://udsau.github.io/Personal-site/)
