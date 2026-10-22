@@ -1,6 +1,6 @@
 ## Hi, I'm Udita :)
 
-just cse student who likes building things, exploring the cosmos, and dabbling in art 
+just a cse student who likes building things, exploring the cosmos, and dabbling in art 
 [**my personal site**](https://udsau.github.io/Personal-site/)
 
 <picture>
