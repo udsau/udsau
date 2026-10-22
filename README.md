@@ -1,4 +1,4 @@
-## Hi, I'm Udita
+## Hi, I'm Udita!
 
 just a cse student who likes building things, exploring the cosmos, and dabbling in art.
 
