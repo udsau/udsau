@@ -1,7 +1,8 @@
 ## Hey, I'm Udita 
 
-a cse student who likes building things, exploring the cosmos, and dabbling in art :)
-[Personal Site](https://udsau.github.io/Personal-site/)
+cse student who likes building things, exploring the cosmos, and dabbling in art
+
+[**Personal Site**](https://udsau.github.io/Personal-site/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udsau/udsau/output/github-contribution-grid-snake-dark.svg">
