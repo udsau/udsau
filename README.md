@@ -1,4 +1,4 @@
-## Hey! I'm Udita
+## Hey 👋🏻
 
 Just another 17y/o turning ideas into code with an interest in robotics
 
