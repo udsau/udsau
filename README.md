@@ -1,4 +1,4 @@
-## Hey, I'm [**Udita**](https://udsau.github.io/Study-Planner/) :)
+## Hey, I'm [**Udita**](https://uditaspace.com) :)
 
 just a cse student who likes building and exploring things!
 
