@@ -1,4 +1,4 @@
-## Hey, I'm Udita :)
+## Hey, I'm [**Udita**](https://udsau.github.io/Study-Planner/) :)
 
 just a cse student who likes building and exploring things!
 
@@ -8,5 +8,4 @@ just a cse student who likes building and exploring things!
   <img alt="Snake animation" src="https://raw.githubusercontent.com/udsau/udsau/output/github-contribution-grid-snake.svg">
 </picture>
 
-[**My Space**](https://udsau.github.io/Study-Planner/)
 
