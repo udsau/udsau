@@ -1,6 +1,6 @@
 ## Hey, I'm [**Udita**](https://uditaspace.com) :)
 
-just a cse student with an interest in robotics
+B.Tech CSE Undergraduate  | Robotics Enthusiast 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udsau/udsau/output/github-contribution-grid-snake-dark.svg">
