@@ -1,6 +1,6 @@
-## Hey, I'm [**Udita**](https://uditaspace.com) :)
+## Hey, I'm Udita :)
 
-CSE Undergraduate  | Robotics Enthusiast | Web Dev | Embedded Systems
+CSE Undergraduate  | Robotics Enthusiast | Web Development | Embedded Systems
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udsau/udsau/output/github-contribution-grid-snake-dark.svg">
